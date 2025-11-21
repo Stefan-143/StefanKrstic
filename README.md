@@ -1,4 +1,4 @@
-# StefanKrstic
+# Stefan Krstic
 
 I'm a QA Engineer experienced in manual testing of web and mobile applications (iOS & Android) and in test automation for web applications. I focus on building reliable test processes, improving product quality, and ensuring great user experiences.
 
